@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 26 Oct 2020 19:31:53 at https://theamitmiglani.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theamitmiglani.com/ -O1 "C:\My Web Sites\theamitmiglani" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:33:22	Warning: 	Moved Permanently for https://theamitmiglani.com/aboutme/
+19:33:22	Warning: 	File has moved from https://theamitmiglani.com/aboutme/ to https://theamitmiglani.com
+19:33:39	Error: 	"Bad Request" (400) at link https://theamitmiglani.com/wp-admin/admin-ajax.php (from https://theamitmiglani.com/)
+19:33:47	Warning: 	Moved Permanently for https://theamitmiglani.com/?p=25222
+19:33:47	Warning: 	File has moved from https://theamitmiglani.com/?p=25222 to https://theamitmiglani.com
+19:33:55	Warning: 	Moved Permanently for https://theamitmiglani.com/?p=25191
+19:33:55	Warning: 	File has moved from https://theamitmiglani.com/?p=25191 to https://theamitmiglani.com
+19:33:55	Warning: 	Moved Permanently for https://theamitmiglani.com/?p=25193
+19:33:55	Warning: 	File has moved from https://theamitmiglani.com/?p=25193 to https://theamitmiglani.com
+19:33:56	Warning: 	Moved Permanently for https://theamitmiglani.com/?p=25512
+19:33:56	Warning: 	File has moved from https://theamitmiglani.com/?p=25512 to https://theamitmiglani.com/demo3/
+19:33:56	Warning: 	Moved Permanently for https://theamitmiglani.com/?p=25254
+19:33:56	Warning: 	File has moved from https://theamitmiglani.com/?p=25254 to https://theamitmiglani.com/whoarethebestentrepreneurs/
+19:33:56	Warning: 	Moved Permanently for https://theamitmiglani.com/?p=25247
+19:33:56	Warning: 	File has moved from https://theamitmiglani.com/?p=25247 to https://theamitmiglani.com/which-1-quality-you-only-need-to-become-an-entrepreneur/
+19:33:57	Warning: 	Moved Permanently for https://theamitmiglani.com/amitmiglani/Trident/
+19:33:57	Warning: 	File has moved from https://theamitmiglani.com/amitmiglani/Trident/ to https://theamitmiglani.com
+19:33:57	Warning: 	Moved Permanently for https://theamitmiglani.com/amitmiglani/Edge/
+19:33:57	Warning: 	File has moved from https://theamitmiglani.com/amitmiglani/Edge/ to https://theamitmiglani.com
+19:33:57	Warning: 	Moved Permanently for https://theamitmiglani.com/amitmiglani/Gecko/
+19:33:57	Warning: 	File has moved from https://theamitmiglani.com/amitmiglani/Gecko/ to https://theamitmiglani.com
+19:33:57	Warning: 	Moved Permanently for https://theamitmiglani.com/amitmiglani/Firefox/
+19:33:57	Warning: 	File has moved from https://theamitmiglani.com/amitmiglani/Firefox/ to https://theamitmiglani.com
+19:33:57	Warning: 	Moved Permanently for https://theamitmiglani.com/amitmiglani/Version/
+19:33:57	Warning: 	File has moved from https://theamitmiglani.com/amitmiglani/Version/ to https://theamitmiglani.com
+19:33:57	Warning: 	Moved Permanently for https://theamitmiglani.com/amitmiglani/version/
+19:33:57	Warning: 	File has moved from https://theamitmiglani.com/amitmiglani/version/ to https://theamitmiglani.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 198 links scanned, 183 files written (10109934 bytes overall) [7792252 bytes received at 62840 bytes/sec], 4417051 bytes transferred using HTTP compression in 77 files, ratio 44%, 4.0 requests per connection
+(1 errors, 26 warnings, 0 messages)

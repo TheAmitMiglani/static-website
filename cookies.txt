@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theamitmiglani.com	TRUE	/	FALSE	1999999999	PHPSESSID	dc583bbd0893154dcc6bc0a5140188d3
+theamitmiglani.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
